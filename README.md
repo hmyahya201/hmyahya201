@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, This is Muhammad Yahya!!!</h1>
-<h2 align="center">Welcome to my home!!!</h2>
-<h3 align="center">A Web Designer & Developer</h3>
+<h3 align="center">Web Designer & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmyahya201&label=Profile%20views&color=0e75b6&style=flat" alt="hmyahya201" /> </p>
 
